@@ -1,0 +1,24 @@
+#countlabel{
+    display:block;
+    text-align: center;
+    font-size: 10em;
+    color: red;
+}
+#buttoncontainer{
+    
+text-align:center;
+  
+}
+.btnclass{
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ;
+}
+.btnclass:hover{
+    background-color: deepskyblue;
+}
